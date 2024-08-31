@@ -41,4 +41,5 @@ pure_eval==0.2.3
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
 pytest==8.3.2
+pytest-cov==4.1.0
 
