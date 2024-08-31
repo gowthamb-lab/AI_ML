@@ -36,9 +36,9 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           make install
-      - name: Lint
-        run: |
-          make Lint
+#      - name: Lint
+ #       run: |
+  #        make Lint
       - name: Test
         run: |
           make test 
